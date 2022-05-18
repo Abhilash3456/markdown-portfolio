@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[git alt text for adding images](https://www.foxinfotech.in/2019/12/github-markdown-add-an-image-to-readme-md-file.html)
